@@ -3,6 +3,7 @@
 This repository is meant for my personal use. I developed it with the purpose of enhancing my coding skills and exploring game development.
 
 Interface Script:
+Note: I can use IEntity and include both of this.  But for the sake of practicing, I seperate them.
 ``` c#
 public interface IHeal
 {
