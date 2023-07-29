@@ -1,6 +1,6 @@
 # Interface Practice 
 
-This repository is intended to myself. I created this to improve my coding skills and for game development.
+This repository is meant for my personal use. I developed it with the purpose of enhancing my coding skills and exploring game development.
 
 Interface Script:
 ``` c#
