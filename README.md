@@ -3,7 +3,7 @@
 This repository is intended to myself. I created this to improve my coding skills and for game development.
 
 Interface Script:
-
+``` c#
 public interface IHeal
 {
     void Heal(int healAmount);
@@ -13,9 +13,9 @@ public interface IDamage
 {
     void Damage(int damageAmount);
 }
-
+````
 Mono Script:
-
+``` c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -51,4 +51,4 @@ public class Entity : MonoBehaviour, IDamage, IHeal
     }
 
 }
-
+```
