@@ -4,7 +4,7 @@ This repository is meant for my personal use. I created it with the purpose of e
 
 Interface Script:
 
-Note: I can use IEntity and include both of this.  But for the sake of practicing, I seperate them.
+Note: I can use IEntity and include both of this.  But for the sake of practicing, I separate them.
 ``` c#
 public interface IHeal
 {
